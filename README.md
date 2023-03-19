@@ -1,6 +1,6 @@
 # Jupyter-Notebook-extension-for-ChatGPT
 
-```Mermaid
+```mermaid
 graph TD;
     A1[OpenAI API] --> B[JupyterChat]
     B --> C0[Jupyter Notebook]
