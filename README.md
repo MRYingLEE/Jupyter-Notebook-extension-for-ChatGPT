@@ -1,3 +1,5 @@
+This repo has been refactored as https://github.com/MRYingLEE/Prompt-Engineering-POC-in-Jupyterlab.
+
 # Jupyter-Notebook-extension-for-ChatGPT
 
 ```mermaid
